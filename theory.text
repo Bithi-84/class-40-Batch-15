@@ -1,0 +1,75 @@
+
+
+======== Conditional Statement ==========
+
+
+
+if(condition1){ markes>=80 A+
+    //statement.....
+}
+
+if(condition2){
+    //statement.....
+}
+
+
+if(condition3){
+    //statement.....
+}
+
+else{
+    //statement.....
+}
+
+
+========== Switch  Case ========
+
+
+$marks = 70;
+
+switch($marks){
+    case 80;
+    //statemsnt....;
+    break;
+
+    case 70;
+    //statemsnt....;
+    break;
+
+    
+    case 60;
+    //statemsnt....;
+    break;
+    
+    default:
+    echo "The grade is F";
+}
+
+
+rahim = car  -> long tour
+rahim = bike -> hang out
+rahim = cycle -> field
+
+
+=============== Function ===========
+
+function functionName(parameter){
+
+    //statement or Body......
+}
+
+function sum (){
+
+    $x = 10;
+    $y = 30;
+    
+    $result $x  + $y;
+    echo $result:
+    retrun $result;
+}
+
+sum();
+
+
+
+
